@@ -2,7 +2,7 @@
 
 
 
- ![Screenshot](botones-audio_1 .png) 
+ ![Screenshot](botones-audio_1.png) 
 
 
 # AndroidManifest.xml
