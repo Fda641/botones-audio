@@ -2,7 +2,7 @@
 
 
 
-
+ ![Screenshot](botones-audio_1 .png) 
 
 
 # AndroidManifest.xml
@@ -42,7 +42,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.Toast
 
-
+ ![Screenshot](screenshot.png) 
 class MainActivity : AppCompatActivity() {
 
     private lateinit var button1: Button
